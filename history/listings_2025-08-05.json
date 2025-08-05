@@ -8,8 +8,9 @@
     "entidad": "Aguascalientes",
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI MANDATO (INMUEBLES/CARTERA) 2DA ETAPA",
-    "visitas": "1008",
-    "ofertas": "0"
+    "visitas": "1012",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1001"
   },
   "item_2": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1002/Thumb/2228165%20(1).jpg",
@@ -20,8 +21,9 @@
     "entidad": "Aguascalientes",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FISCALÍA GENERAL DE LA REPÚBLICA, ANTES (PGR)",
-    "visitas": "828",
-    "ofertas": "0"
+    "visitas": "829",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1002"
   },
   "item_3": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1003/Thumb/B0001653463F0001.JPG",
@@ -32,8 +34,9 @@
     "entidad": "Baja California",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "585",
-    "ofertas": "0"
+    "visitas": "586",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1003"
   },
   "item_4": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1004/Thumb/B0002559505F0001.JPG",
@@ -45,7 +48,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "308",
-    "ofertas": "1"
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1004"
   },
   "item_5": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1005/Thumb/B0003346180G0005150135F0001.jpg",
@@ -56,8 +60,9 @@
     "entidad": "Baja California",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "385",
-    "ofertas": "1"
+    "visitas": "386",
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1005"
   },
   "item_6": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1006/Thumb/3346182_001.jpg",
@@ -69,8 +74,9 @@
     "entidad": "Baja California",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "773",
-    "ofertas": "10"
+    "visitas": "774",
+    "ofertas": "10",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1006"
   },
   "item_7": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1007/Thumb/B0003346182G0005150601F0001.jpg",
@@ -81,8 +87,9 @@
     "entidad": "Baja California",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "229",
-    "ofertas": "1"
+    "visitas": "230",
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1007"
   },
   "item_8": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1008/Thumb/3346944_001.jpg",
@@ -94,7 +101,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "203",
-    "ofertas": "3"
+    "ofertas": "3",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1008"
   },
   "item_9": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1009/Thumb/3700519%201.jpg",
@@ -106,7 +114,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "309",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1009"
   },
   "item_10": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1010/Thumb/3619341-1.png",
@@ -117,8 +126,9 @@
     "entidad": "Baja California",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "132",
-    "ofertas": "0"
+    "visitas": "133",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1010"
   },
   "item_11": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1011/Thumb/3619342-1.png",
@@ -130,7 +140,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "65",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1011"
   },
   "item_12": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1012/Thumb/3619344-1.png",
@@ -142,7 +153,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "40",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1012"
   },
   "item_13": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1013/Thumb/3620430_001.jpg",
@@ -154,7 +166,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "65",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1013"
   },
   "item_14": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1014/Thumb/3620431_001.jpg",
@@ -166,7 +179,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "46",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1014"
   },
   "item_15": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1015/Thumb/3620432%20(1).jpg",
@@ -178,7 +192,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "20",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1015"
   },
   "item_16": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1016/Thumb/3620433_001.jpg",
@@ -190,7 +205,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "29",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1016"
   },
   "item_17": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1017/Thumb/B0003620434G0005176167F0001.JPG",
@@ -201,8 +217,9 @@
     "entidad": "Baja California",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "42",
-    "ofertas": "0"
+    "visitas": "43",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1017"
   },
   "item_18": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1018/Thumb/3620435_001.jpg",
@@ -214,7 +231,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "33",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1018"
   },
   "item_19": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1019/Thumb/B0003620436G0005032980F0001.JPG",
@@ -226,7 +244,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "47",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1019"
   },
   "item_20": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1020/Thumb/3620438_01.jpg",
@@ -238,7 +257,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "60",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1020"
   },
   "item_21": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1021/Thumb/3620439-05.jpg",
@@ -249,8 +269,9 @@
     "entidad": "Baja California",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "369",
-    "ofertas": "0"
+    "visitas": "370",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1021"
   },
   "item_22": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1022/Thumb/B0003649996G0005187346F0001.JPG",
@@ -262,7 +283,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "41",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1022"
   },
   "item_23": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1023/Thumb/B0003650000G0005209369F0001.jpg",
@@ -274,7 +296,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "27",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1023"
   },
   "item_24": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1024/Thumb/B0003650001G0005209401F0001.JPG",
@@ -286,7 +309,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "27",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1024"
   },
   "item_25": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1025/Thumb/3650002-1.jpg",
@@ -298,7 +322,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "14",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1025"
   },
   "item_26": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1026/Thumb/B0003678429G0005207371F00010.JPG",
@@ -310,7 +335,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "16",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1026"
   },
   "item_27": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1027/Thumb/B0003678430G0005207373F0001.jpg",
@@ -322,7 +348,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "17",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1027"
   },
   "item_28": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1028/Thumb/B0003678431G0005207361F0001.jpg",
@@ -334,7 +361,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "100",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1028"
   },
   "item_29": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1029/Thumb/B0003678432G0005187338F0001.jpg",
@@ -346,7 +374,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "18",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1029"
   },
   "item_30": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1030/Thumb/B0003678433G0005209379F0001.jpg",
@@ -358,7 +387,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "16",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1030"
   },
   "item_31": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1031/Thumb/B0003679564G0005209395F0001.jpg",
@@ -370,7 +400,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "27",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1031"
   },
   "item_32": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1032/Thumb/B0003679565G0005207302F0001.jpg",
@@ -382,7 +413,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "22",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1032"
   },
   "item_33": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1033/Thumb/B0003679566G0005187341F0001.jpg",
@@ -394,7 +426,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "55",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1033"
   },
   "item_34": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1034/Thumb/3842998%20(1).jpg",
@@ -406,7 +439,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "27",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1034"
   },
   "item_35": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1035/Thumb/3842999%20(1).jpg",
@@ -418,7 +452,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "22",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1035"
   },
   "item_36": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1036/Thumb/3843001%20(1).jpg",
@@ -430,7 +465,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "30",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1036"
   },
   "item_37": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1037/Thumb/3843002%20(1).jpg",
@@ -442,7 +478,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "21",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1037"
   },
   "item_38": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1038/Thumb/3843003%20(1).jpg",
@@ -454,7 +491,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "24",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1038"
   },
   "item_39": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1039/Thumb/3843004%20(1).jpg",
@@ -466,7 +504,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "25",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1039"
   },
   "item_40": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1040/Thumb/3843005%20(1).jpg",
@@ -478,7 +517,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "27",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1040"
   },
   "item_41": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1041/Thumb/3843006%20(1).jpg",
@@ -490,7 +530,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "22",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1041"
   },
   "item_42": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1042/Thumb/3843007%20(1).jpg",
@@ -502,7 +543,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "25",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1042"
   },
   "item_43": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1043/Thumb/B0003843230G0005024943F0001.jpg",
@@ -514,7 +556,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "47",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1043"
   },
   "item_44": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1044/Thumb/3843232%20(1).jpg",
@@ -526,7 +569,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "24",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1044"
   },
   "item_45": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1045/Thumb/3843233%20(1).jpg",
@@ -538,7 +582,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "11",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1045"
   },
   "item_46": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1046/Thumb/3843235%20(1).jpg",
@@ -550,7 +595,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "23",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1046"
   },
   "item_47": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1047/Thumb/3843236%20(1).jpg",
@@ -562,7 +608,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "15",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1047"
   },
   "item_48": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1048/Thumb/1_7-6-2022_3843547.jpg",
@@ -574,7 +621,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "23",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1048"
   },
   "item_49": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1049/Thumb/B0003937778G0005187349F0001.jpg",
@@ -586,7 +634,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "25",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1049"
   },
   "item_50": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1050/Thumb/B0003937779G0005187347F0001.jpg",
@@ -598,7 +647,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "24",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1050"
   },
   "item_51": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1051/Thumb/B0003937780G0005123986F0001.jpg",
@@ -610,7 +660,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "40",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1051"
   },
   "item_52": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1052/Thumb/B0003937781G0005187348F0001.jpg",
@@ -622,7 +673,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "30",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1052"
   },
   "item_53": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1053/Thumb/1_3-29-2022_3937782.jpg",
@@ -634,7 +686,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "170",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1053"
   },
   "item_54": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1054/Thumb/2500896%20(1).jpg",
@@ -646,7 +699,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "331",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1054"
   },
   "item_55": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1055/Thumb/1673909%20(10).jpg",
@@ -658,7 +712,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "762",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1055"
   },
   "item_56": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1056/Thumb/B0003474836G0005209282F0001.JPG",
@@ -670,7 +725,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "FISCALÍA GENERAL DE LA REPÚBLICA, ANTES (PGR)",
     "visitas": "505",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1056"
   },
   "item_57": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1057/Thumb/B0002195841F0001.JPG",
@@ -682,7 +738,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "133",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1057"
   },
   "item_58": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1058/Thumb/B0003851857G0005059782F0001.jpg",
@@ -694,7 +751,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "177",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1058"
   },
   "item_59": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1059/Thumb/B0003851858G0005059783F0001.jpg",
@@ -706,7 +764,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "103",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1059"
   },
   "item_60": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1060/Thumb/B0003851859G0005059784F0001.jpg",
@@ -718,7 +777,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "128",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1060"
   },
   "item_61": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1061/Thumb/280615%20(1).jpg",
@@ -729,8 +789,9 @@
     "entidad": "Baja California Sur",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "287",
-    "ofertas": "0"
+    "visitas": "288",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1061"
   },
   "item_62": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1062/Thumb/2217044_001.jpg",
@@ -741,8 +802,9 @@
     "entidad": "Baja California Sur",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "278",
-    "ofertas": "0"
+    "visitas": "279",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1062"
   },
   "item_63": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1063/Thumb/B0003696996G0005048893F0001.jpg",
@@ -754,7 +816,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "367",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1063"
   },
   "item_64": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1064/Thumb/B0003696997G0005048894F0001.jpg",
@@ -766,7 +829,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "167",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1064"
   },
   "item_65": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1065/Thumb/B0003696998G0005048897F0001.jpg",
@@ -777,8 +841,9 @@
     "entidad": "Baja California Sur",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "161",
-    "ofertas": "0"
+    "visitas": "162",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1065"
   },
   "item_66": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1066/Thumb/B0003696999G0005048895F0001.jpg",
@@ -790,7 +855,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "120",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1066"
   },
   "item_67": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1067/Thumb/B0003697000G0005048896F0001.jpg",
@@ -802,7 +868,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "338",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1067"
   },
   "item_68": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1068/Thumb/B0002623657F0009.JPG",
@@ -814,8 +881,9 @@
     "entidad": "Baja California Sur",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "601",
-    "ofertas": "7"
+    "visitas": "602",
+    "ofertas": "7",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1068"
   },
   "item_69": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1069/Thumb/1034340%20(1).jpg",
@@ -826,8 +894,9 @@
     "entidad": "Campeche",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "571",
-    "ofertas": "0"
+    "visitas": "572",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1069"
   },
   "item_70": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1070/Thumb/B0003346103G0005139809F0001.jpg",
@@ -839,7 +908,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "363",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1070"
   },
   "item_71": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1071/Thumb/1_4-30-2024_2832625.jpg",
@@ -851,8 +921,9 @@
     "entidad": "Campeche",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "821",
-    "ofertas": "14"
+    "visitas": "824",
+    "ofertas": "14",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1071"
   },
   "item_72": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1072/Thumb/B0000853955F0001.JPG",
@@ -865,7 +936,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
     "visitas": "442",
-    "ofertas": "8"
+    "ofertas": "8",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1072"
   },
   "item_73": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1073/Thumb/B0000853956F0006.jpg",
@@ -878,7 +950,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
     "visitas": "358",
-    "ofertas": "12"
+    "ofertas": "12",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1073"
   },
   "item_74": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1074/Thumb/B0001420596F000001.JPG",
@@ -890,8 +963,9 @@
     "entidad": "Chihuahua",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "836",
-    "ofertas": "9"
+    "visitas": "841",
+    "ofertas": "9",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1074"
   },
   "item_75": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1075/Thumb/10_5-5-2017_1429084.jpg",
@@ -903,7 +977,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "160",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1075"
   },
   "item_76": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1076/Thumb/2875061%20(1).jpg",
@@ -915,7 +990,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "132",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1076"
   },
   "item_77": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1077/Thumb/3649997_001.jpg",
@@ -927,7 +1003,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "115",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1077"
   },
   "item_78": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1078/Thumb/3650003%201.png",
@@ -939,7 +1016,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "85",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1078"
   },
   "item_79": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1079/Thumb/187882%20(1).jpg",
@@ -951,7 +1029,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI MANDATO (INMUEBLES/CARTERA) 2DA ETAPA",
     "visitas": "495",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1079"
   },
   "item_80": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1080/Thumb/1411030%20(1).JPG",
@@ -963,7 +1042,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "151",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1080"
   },
   "item_81": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1081/Thumb/1577005%20(1).jpg",
@@ -975,8 +1055,9 @@
     "entidad": "Chihuahua",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "554",
-    "ofertas": "9"
+    "visitas": "555",
+    "ofertas": "9",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1081"
   },
   "item_82": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1082/Thumb/B0003868438G0005392211F00008.JPG",
@@ -988,7 +1069,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "173",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1082"
   },
   "item_83": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1083/Thumb/10_7-4-2017_2732866.jpg",
@@ -1000,7 +1082,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "262",
-    "ofertas": "1"
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1083"
   },
   "item_84": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1084/Thumb/B0002361486F0001.JPG",
@@ -1012,8 +1095,9 @@
     "entidad": "Coahuila",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "419",
-    "ofertas": "6"
+    "visitas": "421",
+    "ofertas": "6",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1084"
   },
   "item_85": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1085/Thumb/184076%20(1).jpg",
@@ -1025,7 +1109,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI PRIMERA ETAPA",
     "visitas": "202",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1085"
   },
   "item_86": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1086/Thumb/B0000184095F0001.JPG",
@@ -1037,7 +1122,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI PRIMERA ETAPA",
     "visitas": "225",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1086"
   },
   "item_87": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1087/Thumb/184096%20(1).jpg",
@@ -1049,7 +1135,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI PRIMERA ETAPA",
     "visitas": "72",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1087"
   },
   "item_88": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1088/Thumb/184255%20(1).jpg",
@@ -1061,7 +1148,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI MANDATO (INMUEBLES/CARTERA) 2DA ETAPA",
     "visitas": "203",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1088"
   },
   "item_89": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1089/Thumb/IMG-20230724-WA0078.jpg",
@@ -1073,20 +1161,22 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI PRIMERA ETAPA",
     "visitas": "123",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1089"
   },
   "item_90": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1090/Thumb/B0002126429F0001.JPG",
     "lote": "1090",
     "descripcion": "Fracción de terreno urbano sin delimitar que se identifica c...",
     "montoSalida": "$84,900",
-    "ofertaActual": "$95,700",
+    "ofertaActual": "$96,000",
     "ubicacion": "Saltillo, coahuila",
     "entidad": "Coahuila",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "865",
-    "ofertas": "28"
+    "visitas": "869",
+    "ofertas": "29",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1090"
   },
   "item_91": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1091/Thumb/3340296%20(1).jpg",
@@ -1097,8 +1187,9 @@
     "entidad": "Coahuila",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "311",
-    "ofertas": "1"
+    "visitas": "312",
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1091"
   },
   "item_92": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1092/Thumb/1863877%20(1).jpg",
@@ -1110,8 +1201,9 @@
     "entidad": "Durango",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "302",
-    "ofertas": "6"
+    "visitas": "303",
+    "ofertas": "6",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1092"
   },
   "item_93": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1093/Thumb/1863881%20(1).jpg",
@@ -1123,7 +1215,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "98",
-    "ofertas": "1"
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1093"
   },
   "item_94": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1094/Thumb/1863883%20(1).jpg",
@@ -1136,7 +1229,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "102",
-    "ofertas": "4"
+    "ofertas": "4",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1094"
   },
   "item_95": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1095/Thumb/1863885%20(1).jpg",
@@ -1148,7 +1242,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "157",
-    "ofertas": "1"
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1095"
   },
   "item_96": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1096/Thumb/B0002771781F0001.JPG",
@@ -1159,8 +1254,9 @@
     "entidad": "Estado de México",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "1423",
-    "ofertas": "0"
+    "visitas": "1424",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1096"
   },
   "item_97": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1097/Thumb/B0002771782F0001.JPG",
@@ -1172,7 +1268,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "570",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1097"
   },
   "item_98": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1098/Thumb/B0000187993F0001.JPG",
@@ -1184,7 +1281,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "FERTIMEX (CARTERA E INMUEBLES)",
     "visitas": "416",
-    "ofertas": "1"
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1098"
   },
   "item_99": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1099/Thumb/184664%20(1).JPG",
@@ -1195,8 +1293,9 @@
     "entidad": "Guanajuato",
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI MANDATO (INMUEBLES/CARTERA) 2DA ETAPA",
-    "visitas": "667",
-    "ofertas": "0"
+    "visitas": "669",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1099"
   },
   "item_100": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1100/Thumb/1_1-13-2005_86421.jpg",
@@ -1208,7 +1307,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "FISCALÍA GENERAL DE LA REPÚBLICA, ANTES (PGR)",
     "visitas": "374",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1100"
   },
   "item_101": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1101/Thumb/3112329%201.jpg",
@@ -1219,8 +1319,9 @@
     "entidad": "Guanajuato",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "897",
-    "ofertas": "0"
+    "visitas": "899",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1101"
   },
   "item_102": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1102/Thumb/B0001217282F01.JPG",
@@ -1231,8 +1332,9 @@
     "entidad": "Guerrero",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "318",
-    "ofertas": "0"
+    "visitas": "319",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1102"
   },
   "item_103": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1103/Thumb/1_5-19-2024_4166198.jpg",
@@ -1244,8 +1346,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "700",
-    "ofertas": "11"
+    "visitas": "703",
+    "ofertas": "11",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1103"
   },
   "item_104": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1104/Thumb/1_5-19-2024_4166203.jpg",
@@ -1256,8 +1359,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "372",
-    "ofertas": "1"
+    "visitas": "374",
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1104"
   },
   "item_105": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1105/Thumb/1_5-19-2024_4166204.jpg",
@@ -1268,8 +1372,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "142",
-    "ofertas": "1"
+    "visitas": "143",
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1105"
   },
   "item_106": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1106/Thumb/1_5-19-2024_4166208.jpg",
@@ -1280,8 +1385,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "169",
-    "ofertas": "0"
+    "visitas": "170",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1106"
   },
   "item_107": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1107/Thumb/1_5-19-2024_4166209.jpg",
@@ -1292,8 +1398,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "245",
-    "ofertas": "0"
+    "visitas": "246",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1107"
   },
   "item_108": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1108/Thumb/1573798%20(1).JPG",
@@ -1304,8 +1411,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "272",
-    "ofertas": "0"
+    "visitas": "273",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1108"
   },
   "item_109": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1109/Thumb/1495732%201.JPG",
@@ -1316,8 +1424,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "337",
-    "ofertas": "0"
+    "visitas": "340",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1109"
   },
   "item_110": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1110/Thumb/B0001925288F00010.JPG",
@@ -1328,8 +1437,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "444",
-    "ofertas": "0"
+    "visitas": "445",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1110"
   },
   "item_111": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1111/Thumb/B0001925299F0001.JPG",
@@ -1341,7 +1451,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "190",
-    "ofertas": "1"
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1111"
   },
   "item_112": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1112/Thumb/B0001925301F0001.JPG",
@@ -1352,8 +1463,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "435",
-    "ofertas": "0"
+    "visitas": "438",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1112"
   },
   "item_113": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1113/Thumb/1311028%20(1).jpg",
@@ -1364,8 +1476,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "584",
-    "ofertas": "0"
+    "visitas": "586",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1113"
   },
   "item_114": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1114/Thumb/B0000466965F0001.JPG",
@@ -1376,8 +1489,9 @@
     "entidad": "Jalisco",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FISCALÍA GENERAL DE LA REPÚBLICA, ANTES (PGR)",
-    "visitas": "3031",
-    "ofertas": "0"
+    "visitas": "3039",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1114"
   },
   "item_115": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1115/Thumb/3316878%20(1).jpg",
@@ -1388,8 +1502,9 @@
     "entidad": "Morelos",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "767",
-    "ofertas": "0"
+    "visitas": "768",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1115"
   },
   "item_116": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1116/Thumb/3316879%20(1).jpg",
@@ -1401,7 +1516,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "270",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1116"
   },
   "item_117": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1117/Thumb/3316880%20(1).jpg",
@@ -1413,7 +1529,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "285",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1117"
   },
   "item_118": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1118/Thumb/B0004072881G0005440911F0001.jpg",
@@ -1425,8 +1542,9 @@
     "entidad": "Nuevo León",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "1003",
-    "ofertas": "9"
+    "visitas": "1008",
+    "ofertas": "9",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1118"
   },
   "item_119": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1119/Thumb/B0001744289F0001.JPG",
@@ -1437,8 +1555,9 @@
     "entidad": "Oaxaca",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "543",
-    "ofertas": "1"
+    "visitas": "545",
+    "ofertas": "1",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1119"
   },
   "item_120": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1120/Thumb/B0001216261F0001.1.JPG",
@@ -1449,8 +1568,9 @@
     "entidad": "Querétaro",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "1398",
-    "ofertas": "0"
+    "visitas": "1402",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1120"
   },
   "item_121": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1121/Thumb/0_10-2015_1316501.jpg",
@@ -1461,8 +1581,9 @@
     "entidad": "Querétaro",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "1218",
-    "ofertas": "3"
+    "visitas": "1221",
+    "ofertas": "3",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1121"
   },
   "item_122": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1122/Thumb/B0002340339F0001.jpg",
@@ -1473,8 +1594,9 @@
     "entidad": "Querétaro",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "1337",
-    "ofertas": "0"
+    "visitas": "1341",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1122"
   },
   "item_123": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1123/Thumb/186312%201.png",
@@ -1485,8 +1607,9 @@
     "entidad": "Sinaloa",
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
-    "visitas": "288",
-    "ofertas": "0"
+    "visitas": "289",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1123"
   },
   "item_124": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1124/Thumb/B0002271062F0002.JPG",
@@ -1497,8 +1620,9 @@
     "entidad": "Sinaloa",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "137",
-    "ofertas": "0"
+    "visitas": "138",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1124"
   },
   "item_125": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1125/Thumb/197242_01.jpg",
@@ -1510,7 +1634,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
     "visitas": "384",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1125"
   },
   "item_126": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1126/Thumb/B0002107410F0001.JPG",
@@ -1522,7 +1647,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "84",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1126"
   },
   "item_127": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1127/Thumb/2107423%20(1).jpg",
@@ -1534,7 +1660,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "78",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1127"
   },
   "item_128": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1128/Thumb/4113574%20(1).jpg",
@@ -1545,8 +1672,9 @@
     "entidad": "Sinaloa",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "882",
-    "ofertas": "5"
+    "visitas": "889",
+    "ofertas": "5",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1128"
   },
   "item_129": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1129/Thumb/4113577%20(1).jpg",
@@ -1557,8 +1685,9 @@
     "entidad": "Sinaloa",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "777",
-    "ofertas": "0"
+    "visitas": "781",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1129"
   },
   "item_130": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1130/Thumb/285650%20(1).jpg",
@@ -1570,7 +1699,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "229",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1130"
   },
   "item_131": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1131/Thumb/1818759%202.png",
@@ -1582,7 +1712,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "102",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1131"
   },
   "item_132": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1132/Thumb/1819020%201.png",
@@ -1594,7 +1725,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "112",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1132"
   },
   "item_133": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1133/Thumb/B0004095598G0005171103F0001.jpg",
@@ -1606,7 +1738,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "137",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1133"
   },
   "item_134": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1134/Thumb/937502%201.jpg",
@@ -1618,7 +1751,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "223",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1134"
   },
   "item_135": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1135/Thumb/4054230%20(1).jpg",
@@ -1630,7 +1764,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "118",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1135"
   },
   "item_136": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1136/Thumb/4095551%20(1).jpg",
@@ -1642,7 +1777,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "50",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1136"
   },
   "item_137": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1137/Thumb/4095552%20(1).jpg",
@@ -1654,7 +1790,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "42",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1137"
   },
   "item_138": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1138/Thumb/4095556%20(1).jpg",
@@ -1666,7 +1803,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "55",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1138"
   },
   "item_139": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1139/Thumb/4095557%20(1).jpg",
@@ -1678,7 +1816,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "50",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1139"
   },
   "item_140": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1140/Thumb/4095559%20(1).jpg",
@@ -1690,7 +1829,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "58",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1140"
   },
   "item_141": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1141/Thumb/4095561%20(1).jpg",
@@ -1702,7 +1842,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "53",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1141"
   },
   "item_142": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1142/Thumb/4095564%20(1).jpg",
@@ -1714,7 +1855,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "33",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1142"
   },
   "item_143": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1143/Thumb/4095565%20(1).jpg",
@@ -1726,7 +1868,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "103",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1143"
   },
   "item_144": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1144/Thumb/4095567%20(1).jpg",
@@ -1738,7 +1881,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "41",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1144"
   },
   "item_145": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1145/Thumb/4095568%20(1).jpg",
@@ -1749,8 +1893,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "25",
-    "ofertas": "0"
+    "visitas": "26",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1145"
   },
   "item_146": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1146/Thumb/4095569%20(1).jpg",
@@ -1762,7 +1907,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "43",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1146"
   },
   "item_147": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1147/Thumb/4095573%20(1).jpg",
@@ -1774,7 +1920,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "16",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1147"
   },
   "item_148": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1148/Thumb/4095577%20(1).jpg",
@@ -1786,7 +1933,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "24",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1148"
   },
   "item_149": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1149/Thumb/4095579%20(1).jpg",
@@ -1798,7 +1946,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "31",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1149"
   },
   "item_150": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1150/Thumb/4095586%20(1).jpg",
@@ -1810,7 +1959,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "29",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1150"
   },
   "item_151": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1151/Thumb/1_1-20-2023_4095587.jpg",
@@ -1822,7 +1972,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "48",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1151"
   },
   "item_152": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1152/Thumb/4095588%20(1).jpg",
@@ -1834,7 +1985,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "17",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1152"
   },
   "item_153": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1153/Thumb/4095590%20(1).jpg",
@@ -1846,7 +1998,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "39",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1153"
   },
   "item_154": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1154/Thumb/4095591%20(1).jpg",
@@ -1858,7 +2011,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "68",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1154"
   },
   "item_155": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1155/Thumb/4095595%20(1).jpg",
@@ -1870,7 +2024,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "17",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1155"
   },
   "item_156": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1156/Thumb/2_1-20-2023_4095601.jpg",
@@ -1882,7 +2037,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "62",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1156"
   },
   "item_157": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1157/Thumb/4095566%20(1).jpg",
@@ -1894,7 +2050,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "21",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1157"
   },
   "item_158": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1158/Thumb/4095580%20(1).jpg",
@@ -1906,7 +2063,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "28",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1158"
   },
   "item_159": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1159/Thumb/4095581%20(1).jpg",
@@ -1918,7 +2076,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "38",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1159"
   },
   "item_160": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1160/Thumb/4095584%20(1).jpg",
@@ -1930,7 +2089,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "58",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1160"
   },
   "item_161": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1161/Thumb/4095585%20(1).jpg",
@@ -1942,7 +2102,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "34",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1161"
   },
   "item_162": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1162/Thumb/4095594%20(1).jpg",
@@ -1954,7 +2115,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
     "visitas": "52",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1162"
   },
   "item_163": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1163/Thumb/B0000941963F0001.JPG",
@@ -1966,7 +2128,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "57",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1163"
   },
   "item_164": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1164/Thumb/B0001260017F0001.JPG",
@@ -1978,7 +2141,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "64",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1164"
   },
   "item_165": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1165/Thumb/1671747%20(1).jpg",
@@ -1990,7 +2154,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "63",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1165"
   },
   "item_166": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1166/Thumb/B0002987752F0001.JPG",
@@ -2002,7 +2167,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "79",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1166"
   },
   "item_167": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1167/Thumb/1688874%20(1).jpg",
@@ -2014,7 +2180,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "59",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1167"
   },
   "item_168": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1168/Thumb/1688880%20(1).jpg",
@@ -2026,7 +2193,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "35",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1168"
   },
   "item_169": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1169/Thumb/1689920%20(1).jpg",
@@ -2038,7 +2206,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "33",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1169"
   },
   "item_170": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1170/Thumb/1689995%20(1).jpg",
@@ -2050,7 +2219,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "25",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1170"
   },
   "item_171": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1171/Thumb/1690014%20(1).jpg",
@@ -2062,7 +2232,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "19",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1171"
   },
   "item_172": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1172/Thumb/1690088%20%20(1).jpg",
@@ -2074,7 +2245,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "28",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1172"
   },
   "item_173": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1173/Thumb/1690296%20(1).jpg",
@@ -2086,7 +2258,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "41",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1173"
   },
   "item_174": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1174/Thumb/1690819%20(1).jpg",
@@ -2098,7 +2271,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "28",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1174"
   },
   "item_175": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1175/Thumb/1690852%20(1).jpg",
@@ -2110,7 +2284,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "11",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1175"
   },
   "item_176": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1176/Thumb/1690858%20(1).jpg",
@@ -2122,7 +2297,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "14",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1176"
   },
   "item_177": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1177/Thumb/1690863%20(2).jpg",
@@ -2134,7 +2310,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "22",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1177"
   },
   "item_178": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1178/Thumb/1842874%20(1).jpg",
@@ -2146,7 +2323,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "13",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1178"
   },
   "item_179": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1179/Thumb/1842876%20(1).jpg",
@@ -2158,7 +2336,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "17",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1179"
   },
   "item_180": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1180/Thumb/1847696%20(1).jpg",
@@ -2170,7 +2349,8 @@
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
     "visitas": "23",
-    "ofertas": "0"
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1180"
   },
   "item_181": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1181/Thumb/1847815%20(1).jpg",
@@ -2181,8 +2361,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "27",
-    "ofertas": "0"
+    "visitas": "28",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1181"
   },
   "item_182": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1182/Thumb/1847930%20(1).jpg",
@@ -2193,8 +2374,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "17",
-    "ofertas": "0"
+    "visitas": "18",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1182"
   },
   "item_183": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1183/Thumb/1848005%20(1).jpg",
@@ -2205,8 +2387,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "43",
-    "ofertas": "0"
+    "visitas": "44",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1183"
   },
   "item_184": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1184/Thumb/1848111%20(1).jpg",
@@ -2217,8 +2400,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "26",
-    "ofertas": "0"
+    "visitas": "27",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1184"
   },
   "item_185": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1185/Thumb/1848270%20(1).jpg",
@@ -2229,8 +2413,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "30",
-    "ofertas": "0"
+    "visitas": "31",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1185"
   },
   "item_186": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1186/Thumb/1848665%20(1).jpg",
@@ -2241,8 +2426,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "40",
-    "ofertas": "0"
+    "visitas": "41",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1186"
   },
   "item_187": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1187/Thumb/2115381%20(1).jpg",
@@ -2253,8 +2439,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "236",
-    "ofertas": "0"
+    "visitas": "238",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1187"
   },
   "item_188": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1188/Thumb/2116547%20(1).jpg",
@@ -2265,8 +2452,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "108",
-    "ofertas": "0"
+    "visitas": "109",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1188"
   },
   "item_189": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1189/Thumb/2583626%20(1).jpg",
@@ -2277,8 +2465,9 @@
     "entidad": "Sonora",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "141",
-    "ofertas": "0"
+    "visitas": "144",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1189"
   },
   "item_190": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1190/Thumb/1884587%20(1).jpg",
@@ -2289,8 +2478,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "220",
-    "ofertas": "0"
+    "visitas": "223",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1190"
   },
   "item_191": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1191/Thumb/B0001807690F0002.jpg",
@@ -2301,8 +2491,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "420",
-    "ofertas": "0"
+    "visitas": "423",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1191"
   },
   "item_192": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1192/Thumb/1155918%20(1).jpg",
@@ -2313,8 +2504,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "87",
-    "ofertas": "0"
+    "visitas": "89",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1192"
   },
   "item_193": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1193/Thumb/1155919%20(1).jpg",
@@ -2325,8 +2517,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "68",
-    "ofertas": "0"
+    "visitas": "70",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1193"
   },
   "item_194": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1194/Thumb/LOTE%20RETIRADO.jpg",
@@ -2337,8 +2530,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "(Cancelado) Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "249",
-    "ofertas": "0"
+    "visitas": "253",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1194"
   },
   "item_195": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1195/Thumb/1941425%20(1).jpg",
@@ -2349,8 +2543,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "256",
-    "ofertas": "0"
+    "visitas": "259",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1195"
   },
   "item_196": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1196/Thumb/B0002462952F0001.JPG",
@@ -2361,8 +2556,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "SAT FISCO FEDERAL",
-    "visitas": "97",
-    "ofertas": "0"
+    "visitas": "98",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1196"
   },
   "item_197": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1197/Thumb/2166594_001.jpg",
@@ -2373,8 +2569,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "99",
-    "ofertas": "0"
+    "visitas": "100",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1197"
   },
   "item_198": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1198/Thumb/1_6-25-2020_184234.jpg",
@@ -2385,8 +2582,9 @@
     "entidad": "Tamaulipas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "BNCI MANDATO (INMUEBLES/CARTERA) 2DA ETAPA",
-    "visitas": "189",
-    "ofertas": "0"
+    "visitas": "191",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1198"
   },
   "item_199": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1199/Thumb/185502-1.jpg",
@@ -2397,8 +2595,9 @@
     "entidad": "Veracruz",
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
-    "visitas": "494",
-    "ofertas": "0"
+    "visitas": "497",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1199"
   },
   "item_200": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1200/Thumb/185503%20(1).jpg",
@@ -2409,8 +2608,9 @@
     "entidad": "Veracruz",
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
-    "visitas": "212",
-    "ofertas": "0"
+    "visitas": "213",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1200"
   },
   "item_201": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1201/Thumb/185504-1.jpg",
@@ -2421,8 +2621,9 @@
     "entidad": "Veracruz",
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
-    "visitas": "165",
-    "ofertas": "0"
+    "visitas": "167",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1201"
   },
   "item_202": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1202/Thumb/185505-1.jpg",
@@ -2433,8 +2634,9 @@
     "entidad": "Veracruz",
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
-    "visitas": "270",
-    "ofertas": "0"
+    "visitas": "272",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1202"
   },
   "item_203": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1203/Thumb/10_7-1-2014_2266419.jpg",
@@ -2445,8 +2647,9 @@
     "entidad": "Veracruz",
     "tipoBien": "Bienes inmuebles",
     "transferente": "TESOFE TRANSFERENTE",
-    "visitas": "618",
-    "ofertas": "0"
+    "visitas": "621",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1203"
   },
   "item_204": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1204/Thumb/10_5-4-2015_185508.jpg",
@@ -2457,8 +2660,9 @@
     "entidad": "Veracruz",
     "tipoBien": "Bienes inmuebles",
     "transferente": "REC MANDATO (BNCI)",
-    "visitas": "550",
-    "ofertas": "0"
+    "visitas": "552",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1204"
   },
   "item_205": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1205/Thumb/197294%20(1).jpg",
@@ -2469,8 +2673,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "59",
-    "ofertas": "0"
+    "visitas": "60",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1205"
   },
   "item_206": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1206/Thumb/197295-1.jpg",
@@ -2481,8 +2686,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "187",
-    "ofertas": "0"
+    "visitas": "188",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1206"
   },
   "item_207": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1207/Thumb/197296%201.jpg",
@@ -2493,8 +2699,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "70",
-    "ofertas": "0"
+    "visitas": "71",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1207"
   },
   "item_208": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1208/Thumb/197297%201.jpg",
@@ -2505,8 +2712,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "78",
-    "ofertas": "0"
+    "visitas": "80",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1208"
   },
   "item_209": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1209/Thumb/197299%201.jpg",
@@ -2517,8 +2725,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "76",
-    "ofertas": "0"
+    "visitas": "78",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1209"
   },
   "item_210": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1210/Thumb/197300%201.jpg",
@@ -2529,8 +2738,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "117",
-    "ofertas": "0"
+    "visitas": "119",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1210"
   },
   "item_211": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1211/Thumb/197301%203.jpg",
@@ -2541,8 +2751,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "145",
-    "ofertas": "0"
+    "visitas": "146",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1211"
   },
   "item_212": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1212/Thumb/197304%201.jpg",
@@ -2553,8 +2764,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "236",
-    "ofertas": "0"
+    "visitas": "238",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1212"
   },
   "item_213": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1213/Thumb/197305%201.jpg",
@@ -2565,8 +2777,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "73",
-    "ofertas": "0"
+    "visitas": "74",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1213"
   },
   "item_214": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1214/Thumb/197306%202.jpg",
@@ -2577,8 +2790,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "240",
-    "ofertas": "0"
+    "visitas": "243",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1214"
   },
   "item_215": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1215/Thumb/197307%201.jpg",
@@ -2589,8 +2803,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "130",
-    "ofertas": "0"
+    "visitas": "131",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1215"
   },
   "item_216": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1216/Thumb/197309%202.jpg",
@@ -2601,8 +2816,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "73",
-    "ofertas": "0"
+    "visitas": "74",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1216"
   },
   "item_217": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1217/Thumb/197310%201.jpg",
@@ -2613,8 +2829,9 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "122",
-    "ofertas": "0"
+    "visitas": "123",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1217"
   },
   "item_218": {
     "img": "https://imagenessubastas.indep.gob.mx/imgSubastas/27025/1218/Thumb/197311%201.JPG",
@@ -2625,7 +2842,8 @@
     "entidad": "Zacatecas",
     "tipoBien": "Bienes inmuebles",
     "transferente": "FONDO DE DESINCORPORACIÓN DE ENTIDADES (BANRURAL)",
-    "visitas": "190",
-    "ofertas": "0"
+    "visitas": "191",
+    "ofertas": "0",
+    "url": "https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=1113&LoteID=1218"
   }
 }

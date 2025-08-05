@@ -168,7 +168,7 @@ const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
     await page.waitForSelector(tableSelector, { timeout: 30000 });
 
     // Extraer los datos de los anuncios en la página actual
-    const listings = await page.$$eval(`${tableSelector} .k-grid-content tr`, rows => {
+    const listings = await page.$$eval(`${tableSelector} .k-grid-content tr`, (rows, subastaId) => {
       return Array.from(rows).map(row => {
         const cells = row.querySelectorAll('td');
         if (cells.length === 0) return null;
@@ -223,12 +223,12 @@ const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
         // URL del detalle del lote
         const loteId = cells[1]?.innerText.trim() || '';
         if (loteId) {
-          data.url = `https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=${SUBASTA_ID}&LoteID=${loteId}`;
+          data.url = `https://subastasenlinea.indep.gob.mx/Electronica/Pages/DetalleSubasta.aspx?SubastaID=${subastaId}&LoteID=${loteId}`;
         }
         
         return data;
       }).filter(item => item !== null);
-    });
+    }, SUBASTA_ID);
 
     console.log(`Encontrados ${listings.length} anuncios en la página ${pageIndex}`);
 
